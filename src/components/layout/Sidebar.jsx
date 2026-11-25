@@ -15,7 +15,7 @@ export default function Sidebar() {
         <div className="wf-logo">
           <img
             src="/public/img/car-repair-logo-icon-vector-22266860.jpg"
-            alt=""
+            alt="logo"
           />
         </div>
         <div>
